@@ -1,0 +1,10 @@
+C:\PROGRAMMIROVANIE\laba 3\laba 3\bin\Debug\laba 3.exe.config
+C:\PROGRAMMIROVANIE\laba 3\laba 3\bin\Debug\laba 3.exe
+C:\PROGRAMMIROVANIE\laba 3\laba 3\bin\Debug\laba 3.pdb
+C:\PROGRAMMIROVANIE\laba 3\laba 3\obj\Debug\laba 3.csproj.AssemblyReference.cache
+C:\PROGRAMMIROVANIE\laba 3\laba 3\obj\Debug\laba_3.Form1.resources
+C:\PROGRAMMIROVANIE\laba 3\laba 3\obj\Debug\laba_3.Properties.Resources.resources
+C:\PROGRAMMIROVANIE\laba 3\laba 3\obj\Debug\laba 3.csproj.GenerateResource.cache
+C:\PROGRAMMIROVANIE\laba 3\laba 3\obj\Debug\laba 3.csproj.CoreCompileInputs.cache
+C:\PROGRAMMIROVANIE\laba 3\laba 3\obj\Debug\laba 3.exe
+C:\PROGRAMMIROVANIE\laba 3\laba 3\obj\Debug\laba 3.pdb
